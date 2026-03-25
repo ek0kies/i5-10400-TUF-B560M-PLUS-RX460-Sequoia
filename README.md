@@ -1,0 +1,6 @@
+- CPU：`Intel Core i5-10400`
+- 主板：`ASUS TUF GAMING B560M-PLUS`
+- 显卡：`Sapphire RX 460`
+- 有线网卡：`Realtek RTL8125 2.5GbE`
+- 无线：`Intel AX201`，本基线未启用
+- 目标系统：`macOS Sequoia 15.7.4`
